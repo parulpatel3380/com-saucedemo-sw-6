@@ -1,0 +1,6 @@
+com\saucedemo\runner\SmokeTestRunner.class
+com\saucedemo\runner\SanityTestRunner.class
+com\saucedemo\steps\LoginSteps.class
+com\saucedemo\Hooks.class
+com\saucedemo\runner\RegressionTestRunner.class
+com\saucedemo\steps\ProductSteps.class
